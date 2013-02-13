@@ -26,7 +26,7 @@ have ruby and ruby gems installed on your system: `gem install rake bundler`.
 Then:
 
 ``` bash-session
-$ zsh < <( curl https://raw.github.com/gf3/dotfiles/master/bootstrap.sh )
+$ zsh < <( curl https://raw.github.com/fusion94/dotfiles/master/bootstrap.sh )
 ```
 
 Don't worry, all your old files will be backed up!
